@@ -1,0 +1,9 @@
+8
+Asakusa Shibuya 15 Shimbashi 8 Ueno 3
+Ikebukuro Otemachi 7 Shibuya 7 Shinjuku 4 Tokyo 8
+Otemachi Ikebukuro 7 Shinjuku 9 Tokyo 1
+Shibuya Asakusa 15 Shinjuku 3 Shimbashi 7 Ueno 14
+Shimbashi Asakusa 8 Shibuya 7 Ueno 8
+Shinjuku Ikebukuro 4 Otemachi 9 Tokyo 8
+Tokyo Ikebukuro 8 Otemachi 1 Shinjuku 8
+Ueno Asakusa 3 Shibuya 14 Shimbashi 8
